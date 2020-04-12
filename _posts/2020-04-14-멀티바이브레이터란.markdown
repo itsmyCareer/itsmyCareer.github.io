@@ -7,5 +7,5 @@ categories: 마이크로프로세서 임베디드 self
 ## 개요
 
 마이크로프로세서 시간에, PCB Artwork 수업을 하던 중에 Multi Vibaration이 나오게 되었는데, 처음 보는 회로도들이 보니까 어렵게 느껴졌다는 생각을 가지고 알아보고 이렇게 포스트를 쓰려고한다.
-![Multi-Vibration](..\img\multi-v.png)
+![multi-v](https://user-images.githubusercontent.com/57393031/79187394-118e1480-7e57-11ea-9834-c70a2c8a6918.png)
 - 본 이미지는 수업때 나온 이미지. 아직 까지는 뭐하는건지 하나도 모르겠다.
