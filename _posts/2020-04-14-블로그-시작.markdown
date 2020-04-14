@@ -2,6 +2,6 @@
 layout: post
 title:  "블로그 시작"
 date:   2019-04-14 11:20:00 +0900
-categories: Javascript NodeJS
+categories: INIT
 ---
 1일 1커밋, 1일 1 게시글을 할 예정이다.
